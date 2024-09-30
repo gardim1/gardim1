@@ -35,6 +35,7 @@
 - 🏎️ **Object Detection for Formula E Cars** - A Machine Learning project using Python and YOLOv8 to detect race cars in real-time.
 - 🎥 **[Watch Example Video](https://youtube.com/shorts/tg-ZAQcb0Us?feature=share)** - Detection of Formula E cars.
 -  🎥 **[Watch Example Video](https://www.youtube.com/watch?v=lwieHEZWfDU)** - Demo of speed estimation and tracking on YouTube.
+-  🎥 **[Watch Example Video](https://youtu.be/1pSULnu9ajg?si=cCX1XwraSgsMv9Iu)** - Final speed estimation and tracking on YouTube.
 
 ---
 
