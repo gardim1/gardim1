@@ -31,11 +31,13 @@
 
 ### 🔥 My Projects:
 
-- 🐾 **[FIAPet](https://m4tiolli.github.io/fiapet/)** - A website for pets built with HTML, CSS, and JavaScript.
-- 🏎️ **Object Detection for Formula E Cars** - A Machine Learning project using Python and YOLOv8 to detect race cars in real-time.
-- 🎥 **[Watch Example Video](https://youtube.com/shorts/tg-ZAQcb0Us?feature=share)** - Detection of Formula E cars.
--  🎥 **[Watch Example Video](https://www.youtube.com/watch?v=lwieHEZWfDU)** - Demo of speed estimation and tracking on YouTube.
--  🎥 **[Watch Example Video](https://youtu.be/1pSULnu9ajg?si=cCX1XwraSgsMv9Iu)** - Final speed estimation and tracking on YouTube.
+- **[FIAPet](https://m4tiolli.github.io/fiapet/)** - A website for pets built with HTML, CSS, and JavaScript.  
+- **Object Detection for Formula E Cars** - A machine learning project using Python and YOLOv8 to detect race cars in real-time.  
+  - **[Watch Example Video](https://youtube.com/shorts/-ZAQc8b0Us?feature=share)** - Detection of Formula E cars.  
+  - **[Watch Example Video](https://youtu.be/NUhK_8AvUsY?si=JhpP1JfwE9w5bWLp)** - Final speed estimation and tracking.  
+- **Object Detection and Speed Estimation of a Ball in a Table Tennis Match** - ML training using a custom dataset and YOLOv11.  
+  - **[Watch Example Video](https://youtu.be/o2vsGWBBpwI?si=Ka3I3T3eBnh3y3B1)** - Final phase of table tennis balls speed estimation and tracking.  
+
 
 ---
 
