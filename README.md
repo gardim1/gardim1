@@ -48,13 +48,6 @@
 
 ---
 
-### 📚 Books I read and Recommend:
-
-- **Head First Java** by Kathy Sierra & Bert Bates
-- **Clean Code** by Robert C. Martin
-- **Design Patterns Explained Simply**
-
----
 
 ### 🌍 Languages:
 
