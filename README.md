@@ -7,7 +7,7 @@
 </p>
 
 - 🔭 I’m currently working on **Real-time radar for Formula E races with Mahindra Racing and FIA using Machine Learning**
-- 🌱 I’m currently learning **Computer Vision, TensorFlow, and real-time object detection**
+- 🌱 I’m currently learning **BackEnd and Computer Vision**
 - 📫 How to reach me: **vini.gardim1@gmail.com**
 - ⚡ Fun fact: **I lived in Australia for a year working at KFC and training in customer service!**
 
