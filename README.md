@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Vinicius Gardim</h2>
-<h4 align="center">💻 A passionate Software Engineering student at FIAP with a focus on Machine Learning and Web Development</h4>
+<h4 align="center">💻 A passionate Software Engineering student at FIAP with a focus on Machine Learning and BackEnd Development</h4>
 <h4 align="center"> 📍 Brazil | 🎂 19 years old | 🚀 Always learning & building </h4>
 <p align="center">
   <a href="https://github.com/gardim1"><img src="https://img.shields.io/github/followers/gardim1?label=Follow&style=social" alt="GitHub"></a>
