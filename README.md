@@ -42,11 +42,6 @@
 
 
 ---
-### LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/gardim1?theme=dark)
-
----
 
 
 
