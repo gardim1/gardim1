@@ -32,10 +32,6 @@
 
 
 ---
-### 📊 GitHub Stats
-
-![Vinicius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gardim1&show_icons=true&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardim1&layout=compact&theme=dracula&hide_border=true)
 
 ![Snake animation](https://github.com/gardim1/gardim1/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![Snake animation](https://github.com/gardim1/gardim1/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
